@@ -1,0 +1,16 @@
+{
+  "name": "jvxin",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "jweixin-module": "^1.6.0",
+    "weixin-js-sdk": "^1.4.0-test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cjt",
+  "license": "ISC",
+  "description": ""
+}
